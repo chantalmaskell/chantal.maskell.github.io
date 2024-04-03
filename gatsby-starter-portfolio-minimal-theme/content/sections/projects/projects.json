@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Robotics",
       "title": "Teleoperation of Kuka YouBot in CoppeliaSim (V-Rep) and Matlab",
-      "description": "Developed a program to remotely operate a Kuka YouBot from Matlab to CoppeliaSim (robotic simulation software).",
+      "description": "Developed a program to remotely operate a Kuka YouBot from Matlab to CoppeliaSim (simulation software).",
       "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
         "src": "../../images/Kuka_youBot.png",
