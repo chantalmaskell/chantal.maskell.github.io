@@ -1,0 +1,51 @@
+{
+  "interests": [
+    {
+      "label": ".NET",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Robotics",
+      "image": {
+        "src": "../../images/nail-polish.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Machine Learning",
+      "image": {
+        "src": "../../images/medium.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Animations",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PWA (Offline Support)",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

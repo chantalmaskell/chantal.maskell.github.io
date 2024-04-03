@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Gatsby Starter for Portfolio Minimal",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "Chantal Maskell Portfolio",
+    "author": "Chantal Maskell",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "Software Engineer in Leeds, UK.",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/konstantinmuenster",
+      "medium": "https://konstantinmuenster.medium.com",
+      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
+      "mail": "mailto:mail@konstantin.digital"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Chantal Maskell" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

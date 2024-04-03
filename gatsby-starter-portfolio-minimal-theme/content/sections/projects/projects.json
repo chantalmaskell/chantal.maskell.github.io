@@ -1,0 +1,83 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Robotics",
+      "title": "Teleoperation of Kuka YouBot in CoppeliaSim (V-Rep) and Matlab",
+      "description": "Developed a program to remotely operate a Kuka YouBot from Matlab to CoppeliaSim (robotic simulation software).",
+      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "image": {
+        "src": "../../images/Kuka_youBot.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/chantalmaskell"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/chantalmaskell"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Multi-Agent Systems",
+      "title": "Object Retrieval from Grid-Based Forest using a Multi-Agent System",
+      "description": "Developed using AgentSpeak on the JASON platform, I developed a multi-agent system with the aim of one agent being able to traverse a forest and retrive items based on conditions, and a second agent to make counter-decisions based on certain actions from the first agent.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/chantalmaskell"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Web Development",
+      "title": "Receipe Website",
+      "description": "Worked on a group project to develop a website where a user could browse, search, favourite, and log in to view a range of recipes based on a MySQL database.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/chantalmaskell"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Robotics",
+      "title": "Behaviour-Based Map Building Robot in CoppeliaSim (V-Rep)",
+      "description": "Collaborated on a group project to develop a map-building robot in CoppeliaSim and Matlab.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/Lidar_Scanner.PNG",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/chantalmaskell"
+        }
+      ]
+    }
+    
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/chantalmaskell"
+  }
+}
